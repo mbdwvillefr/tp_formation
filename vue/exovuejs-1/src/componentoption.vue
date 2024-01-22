@@ -1,6 +1,6 @@
 <script>
   const { createApp } = Vue
-  import componentsoption from './assets/main.js'
+  import ComponentsOption from './assets/main.js'
 
   createApp({
     data() {
